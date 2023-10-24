@@ -20,7 +20,7 @@ Feel free to explore, contribute, and collaborate!
 
 I'm always open to new connections and collaborations. Don't hesitate to reach out if you share similar interests or just want to chat about the latest tech trends.
 
-- Twitter: [@kateemartinez]([https://twitter.com/kateemartinez](https://twitter.com/KateCreates_))
+- Twitter: [@KateCreates_](https://twitter.com/KateCreates_)
 
 <h2 align="center">Happy Coding! 🚀</h2>
 
