@@ -10,6 +10,9 @@
 
 <h2 align="center">Projects 🚀</h2>
 
+Here are some of the exciting projects I've been working on:
+
+- [Project 1: Sales Analysis](https://github.com/kateemartinezz/Sales-Analysis): Analyzing sales on purchasing technology across the United States.
 
 Feel free to explore, contribute, and collaborate!
 
