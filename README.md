@@ -6,7 +6,7 @@
 - 👀 I’m passionate about all things tech, from coding to the latest gadgets.
 - 🌱 I’m currently learning how to master machine learning and coding.
 - 💞️ I’m looking to collaborate on open-source projects that make a difference in the world.
-- 📫 You can reach me on [Twitter]([https://twitter.com/KateCreates_](https://twitter.com/KateCreates_)) or [LinkedIn]([www.linkedin.com/in/kateemartinezz](https://www.linkedin.com/in/kateemartinezz/)).
+- 📫 You can reach me on [Twitter](https://twitter.com/KateCreates_) or [LinkedIn](https://www.linkedin.com/in/kateemartinezz/).
 
 <h2 align="center">Projects 🚀</h2>
 
