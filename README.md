@@ -12,7 +12,10 @@
 
 Here are some of the exciting projects I've been working on:
 
-- [Project 1: Sales Analysis](https://github.com/kateemartinezz/Sales-Analysis): Analyzing sales on purchasing technology across the United States.
+- [Project 1: Predicting Credit Card Fraud with R](https://github.com/kateemartinezz/Predicting-Credit-Card-Fraud-with-R):  The objective of this project is to predict which credit card transactions in the dataset are fraudulent using three classification algorithms and three synthetic balancing techniques. The three classifier algorithms we will train include:
+  + Decision Tree, which uses a tree-like model of decisions to arrive at a classification prediction.
+  + Naive Bayes, which uses Bayes' theorem to use probability to arrive at a classification prediction.
+  + Linear Discriminant Analysis, which finds a linear combination of features that is then used to separate the classes and arrive at a classification prediction.
 
 Feel free to explore, contribute, and collaborate!
 
